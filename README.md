@@ -1,4 +1,4 @@
-# Kafka tutorial - Simple client
+# Kafka tutorial - Simple client API
 
 [![Build Status](https://travis-ci.com/aseigneurin/kafka-tutorial-simple-client.svg?branch=master)](https://travis-ci.com/aseigneurin/kafka-tutorial-simple-client)
 
